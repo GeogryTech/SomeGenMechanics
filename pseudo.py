@@ -1,5 +1,7 @@
 # Pseudo Quote Generator (Rus version w/ english comments)
-# You can download Russian version with russian comments and English version with English comments from my github account
+# You can download Russian version with russian comments and English version with English comments from my github account (under development)
+
+# This code works on Linux OS (Arch Linux)
 
 # Repo Link: https://github.com/OnePixeLBoiii/SomeGenMechanics
 # Author: OnePixeLBoiii
