@@ -1,7 +1,8 @@
 # Pseudo Quote Generator (Rus version w/ english comments)
 # You can download Russian version with russian comments and English version with English comments from my github account
 
-# Author: Knedl
+# Repo Link: https://github.com/OnePixeLBoiii/SomeGenMechanics
+# Author: OnePixeLBoiii
 
 # Commentary: This program will not work without these files: "part1.txt", "part2.txt", "part3.txt".
 # Also, you can customize these files, or add new files.
